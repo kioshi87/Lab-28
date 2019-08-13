@@ -1,0 +1,17 @@
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.deps.json
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.runtimeconfig.json
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.runtimeconfig.dev.json
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.dll
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.pdb
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.csprojAssemblyReference.cache
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.RazorAssemblyInfo.cache
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.RazorAssemblyInfo.cs
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.RazorTargetAssemblyInfo.cache
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.dll
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.pdb
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.Views.dll
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\obj\Debug\netcoreapp2.2\Lab28.csproj.CopyComplete
+C:\Users\PC1\OneDrive\Grand Circus\Lab28\bin\Debug\netcoreapp2.2\Lab28.Views.pdb
